@@ -1,4 +1,4 @@
-let char = new Knight('John')
+let char = new Knight('John Wick')
 let monster = new LittleMonster()
 
 const stage = new Stage(
